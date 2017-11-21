@@ -1,0 +1,1747 @@
+﻿Log file open, 11/21/17 22:40:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1001490061) SRandInit(-1001490061).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.158905
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.21-13.40.09:138][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.21-13.40.09:138][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.21-13.40.09:162][  0]LogInit: Computer: DESKTOP-473DMHI
+[2017.11.21-13.40.09:162][  0]LogInit: User: USERPC
+[2017.11.21-13.40.09:162][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.21-13.40.09:162][  0]LogInit: High frequency timer resolution =3.515622 MHz
+[2017.11.21-13.40.09:162][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.11.21-13.40.09:162][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.21-13.40.09:162][  0]LogMemory: Process Physical Memory: 273.23 MB used, 273.23 MB peak
+[2017.11.21-13.40.09:162][  0]LogMemory: Process Virtual Memory: 271.66 MB used, 271.66 MB peak
+[2017.11.21-13.40.09:162][  0]LogMemory: Physical Memory: 4548.46 MB used,  11799.07 MB free, 16347.54 MB total
+[2017.11.21-13.40.09:163][  0]LogMemory: Virtual Memory: 664.89 MB used,  11799.07 MB free, 134217728.00 MB total
+[2017.11.21-13.40.09:274][  0]LogInit: Using OS detected language (ko-KR).
+[2017.11.21-13.40.09:274][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.11.21-13.40.09:279][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.11.21-13.40.09:413][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.21-13.40.09:785][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.21-13.40.09:846][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.11.21-13.40.09:846][  0]LogD3D11RHI:       8096/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.21-13.40.09:849][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.21-13.40.09:849][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.21-13.40.09:849][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.21-13.40.09:854][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.21-13.40.09:854][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.21-13.40.09:854][  0]LogWindows: EnumDisplayDevices:
+[2017.11.21-13.40.09:854][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.11.21-13.40.09:855][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.21-13.40.09:855][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.21-13.40.09:856][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.21-13.40.09:856][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.21-13.40.09:856][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.11.21-13.40.09:856][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.21-13.40.09:856][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.21-13.40.09:856][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.11.21-13.40.09:883][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.21-13.40.09:893][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.21-13.40.09:938][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../전공모음/Unreal_Projects/FPS/Intermediate/Shaders/WorkingDirectory/19588/).
+[2017.11.21-13.40.09:939][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER-PC/AppData/Local/Temp/UnrealShaderWorkingDir/18AFF4164012882535FA5AB784F0CD71/'.
+[2017.11.21-13.40.09:939][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.21-13.40.10:728][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.21-13.40.10:766][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.21-13.40.10:805][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.21-13.40.10:863][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.21-13.40.10:934][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.21-13.40.10:994][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.21-13.40.11:055][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.21-13.40.11:117][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.21-13.40.11:150][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.21-13.40.11:188][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.21-13.40.11:227][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.21-13.40.11:267][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.21-13.40.11:306][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.21-13.40.11:345][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.21-13.40.11:420][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.21-13.40.11:420][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.21-13.40.11:458][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.21-13.40.11:501][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.21-13.40.11:590][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.21-13.40.11:631][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.21-13.40.11:676][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.21-13.40.11:715][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.21-13.40.11:753][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.21-13.40.11:793][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.21-13.40.11:793][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.21-13.40.12:137][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.21-13.40.12:185][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/USER-PC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.21-13.40.12:185][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER-PC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.21-13.40.12:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../전공모음/Unreal_Projects/FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.21-13.40.12:186][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.21-13.40.12:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../전공모음/Unreal_Projects/FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.21-13.40.12:186][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.21-13.40.12:199][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.21-13.40.12:211][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.21-13.40.12:219][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.21-13.40.12:219][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.21-13.40.12:220][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.21-13.40.12:220][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.21-13.40.12:579][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.21-13.40.12:835][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.21-13.40.12:867][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.21-13.40.12:867][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.21-13.40.12:867][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.21-13.40.12:867][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.21-13.40.12:867][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.21-13.40.12:897][  0]LogNetVersion: FPS , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1106744241)
+[2017.11.21-13.40.13:030][  0]LogAssetRegistry: FAssetRegistry took 0.0244 seconds to start up
+[2017.11.21-13.40.13:429][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.054393 seconds
+[2017.11.21-13.40.13:434][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.21-13.40.13:434][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.21-13.40.13:434][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.21-13.40.13:461][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.21-13.40.16:009][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.21-13.40.16:049][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.21-13.40.16:727][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.21-13.40.17:117][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.11.21-13.40.17:117][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.11.21-13.40.17:164][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.11.21-13.40.17:214][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.11.21-13.40.17:941][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.21-13.40.18:218][  0]LogOcInput: OculusInput pre-init called
+[2017.11.21-13.40.18:510][  0]LogEngine: Initializing Engine...
+[2017.11.21-13.40.18:513][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.21-13.40.18:672][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.21-13.40.18:672][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.21-13.40.18:769][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.21-13.40.18:790][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.40.18:838][  0]LogInit: FAudioDevice initialized.
+[2017.11.21-13.40.18:917][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/USER-PC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.21-13.40.18:928][  0]LogInit: Texture streaming: Enabled
+[2017.11.21-13.40.19:002][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.21-13.40.19:111][  0]LogInit: Transaction tracking system initialized
+[2017.11.21-13.40.19:448][  0]BlueprintLog: New page: 에디터 로드
+[2017.11.21-13.40.20:142][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.11.21-13.40.20:824][  0]LogConsoleResponse: Display: 
+[2017.11.21-13.40.20:962][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.21-13.40.20:962][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.21-13.40.20:962][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.21-13.40.21:095][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/FPS/Content/' took 0.02s
+[2017.11.21-13.40.22:094][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.11.21-13.40.22:094][  0]Cmd: MAP LOAD FILE="../../../../전공모음/Unreal_Projects/FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.21-13.40.22:095][  0]LightingResults: New page: 라이팅 빌드
+[2017.11.21-13.40.22:135][  0]MapCheck: New page: 맵 체크
+[2017.11.21-13.40.22:135][  0]LightingResults: New page: 라이팅 빌드
+[2017.11.21-13.40.22:530][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.11.21-13.40.22:538][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.21-13.40.22:547][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.21-13.40.22:623][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 75.227ms.
+[2017.11.21-13.40.22:623][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.528
+[2017.11.21-13.40.22:770][  0]LogCollectionManager: Loaded 0 collections in 0.001188 seconds
+[2017.11.21-13.40.22:916][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/FPS/Saved/Collections/' took 0.01s
+[2017.11.21-13.40.22:917][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/FPS/Content/Developers/USERPC/Collections/' took 0.01s
+[2017.11.21-13.40.22:917][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/FPS/Content/Collections/' took 0.01s
+[2017.11.21-13.40.22:917][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.21-13.40.22:932][  0]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2363 classes and 519 folders.
+[2017.11.21-13.40.22:990][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.21-13.40.23:040][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.21-13.40.23:073][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.21-13.40.23:087][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.21-13.40.23:089][  0]LogSlate: Took 0.001807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.11.21-13.40.23:090][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.21-13.40.23:094][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.21-13.40.23:171][  0]LogRenderer: Reallocating scene render targets to support 1216x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.21-13.40.23:311][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.21-13.40.23:311][  0]LogLoad: (Engine Initialization) Total time: 16.68 seconds
+[2017.11.21-13.40.23:311][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.21-13.40.23:311][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.21-13.40.23:688][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.21-13.40.23:842][  0]LogSlate: Took 0.000605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.21-13.40.24:997][  4]LogAssetRegistry: Asset discovery search completed in 11.9881 seconds
+[2017.11.21-13.40.25:001][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.21-13.40.25:002][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
+[2017.11.21-13.40.54:632][904]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.21-13.40.55:145][904]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.40.55:160][904]Cmd: MAP LOAD FILE="../../../../전공모음/Unreal_Projects/FPS/Content/Map/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.21-13.40.55:160][904]LightingResults: New page: 라이팅 빌드
+[2017.11.21-13.40.55:160][904]LoadErrors: New page: 맵 로드중: NewMap.umap
+[2017.11.21-13.40.55:161][904]MapCheck: New page: 맵 체크
+[2017.11.21-13.40.55:161][904]LightingResults: New page: 라이팅 빌드
+[2017.11.21-13.40.55:172][904]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.21-13.40.55:202][904]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.21-13.40.55:278][904]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 76.521ms.
+[2017.11.21-13.40.55:278][904]LogFileHelpers: Loading map 'NewMap' took 0.119
+[2017.11.21-13.41.05:837][ 97]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.11.21-13.41.07:099][101]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FPS
+[2017.11.21-13.41.07:099][101]LogTemp: CWD: D:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.21-13.41.07:099][101]LogTemp: Initial Dir: D:\UE_4.18
+[2017.11.21-13.41.07:099][101]LogTemp: Env CWD: D:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.21-13.41.07:109][102]LogTemp: BranchPath = DESKTOP-473DMHI/D/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-473DMHI/D/UE_4.18/Engine/Binaries
+[2017.11.21-13.41.07:127][104]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\USER-PC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.21-13.41.10:001][441]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.21-13.41.18:423][425]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.41.19:480][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.41.19:481][425]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:41:19)
+[2017.11.21-13.41.19:482][425]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.41.19:494][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012448s)
+[2017.11.21-13.41.19:495][425]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.41.19:495][425]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2017.11.21-13.41.19:496][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.014242s)
+[2017.11.21-13.41.19:541][425]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.41.19:566][425]LogInit: FAudioDevice initialized.
+[2017.11.21-13.41.19:609][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.41.19:616][425]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.41.19
+[2017.11.21-13.41.19:616][425]LogWorld: Bringing up level for play took: 0.005228
+[2017.11.21-13.41.19:698][425]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.21-13.41.19:701][425]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.202
+[2017.11.21-13.44.02:801][943]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.44.02:817][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.44.02:817][943]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:44:02)
+[2017.11.21-13.44.02:817][943]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.44.02:820][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002624s)
+[2017.11.21-13.44.02:820][943]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.44.02:821][943]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.11.21-13.44.02:821][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.003636s)
+[2017.11.21-13.44.02:839][943]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.44.02:858][943]LogInit: FAudioDevice initialized.
+[2017.11.21-13.44.02:886][943]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.44.02:888][943]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.44.02
+[2017.11.21-13.44.02:888][943]LogWorld: Bringing up level for play took: 0.001438
+[2017.11.21-13.44.02:890][943]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.987
+[2017.11.21-13.44.37:256][ 44]LogActorFactory: Actor Factory created Cube
+[2017.11.21-13.44.40:259][400]LogActorFactory: Actor Factory created Cube
+[2017.11.21-13.44.41:353][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.44.48:315][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Floor_BBiigg)
+[2017.11.21-13.44.50:063][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.45.13:336][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.45.17:484][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.45.26:384][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.45.27:163][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.45.33:967][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.45.34:845][737]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.45.34:861][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.45.34:861][737]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:45:34)
+[2017.11.21-13.45.34:861][737]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.45.34:864][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002807s)
+[2017.11.21-13.45.34:865][737]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.45.34:865][737]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.11.21-13.45.34:865][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.003759s)
+[2017.11.21-13.45.34:884][737]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.45.34:903][737]LogInit: FAudioDevice initialized.
+[2017.11.21-13.45.34:935][737]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.45.34:937][737]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.45.34
+[2017.11.21-13.45.34:937][737]LogWorld: Bringing up level for play took: 0.001446
+[2017.11.21-13.45.34:939][737]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 1.035
+[2017.11.21-13.45.39:442][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.45.47:398][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.45.58:587][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.46.02:261][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.46.06:342][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.46.11:633][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.46.44:336][911]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.46.44:351][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.46.44:351][911]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:46:44)
+[2017.11.21-13.46.44:351][911]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.46.44:354][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002401s)
+[2017.11.21-13.46.44:355][911]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.46.44:355][911]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2017.11.21-13.46.44:355][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.003383s)
+[2017.11.21-13.46.44:374][911]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.46.44:393][911]LogInit: FAudioDevice initialized.
+[2017.11.21-13.46.44:426][911]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.46.44:428][911]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.46.44
+[2017.11.21-13.46.44:428][911]LogWorld: Bringing up level for play took: 0.001383
+[2017.11.21-13.46.44:430][911]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.527
+[2017.11.21-13.46.46:749][168]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.21-13.47.01:617][916]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.21-13.47.05:145][328]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.47.05:161][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.47.05:161][328]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:47:05)
+[2017.11.21-13.47.05:161][328]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.47.05:163][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002445s)
+[2017.11.21-13.47.05:164][328]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.47.05:164][328]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2017.11.21-13.47.05:164][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.003412s)
+[2017.11.21-13.47.05:183][328]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.47.05:201][328]LogInit: FAudioDevice initialized.
+[2017.11.21-13.47.05:231][328]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.47.05:233][328]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.47.05
+[2017.11.21-13.47.05:233][328]LogWorld: Bringing up level for play took: 0.001351
+[2017.11.21-13.47.05:235][328]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.668
+[2017.11.21-13.47.09:982][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.47.19:531][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.47.24:495][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.47.25:095][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.48.21:382][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-13.48.28:139][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.48.30:198][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.48.32:418][525]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.21-13.49.00:354][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.49.23:171][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.50.06:977][499]Cmd: SELECT NONE
+[2017.11.21-13.50.13:219][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.50.15:412][484]Cmd: SELECT NONE
+[2017.11.21-13.50.23:797][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.50.24:693][572]Cmd: SELECT NONE
+[2017.11.21-13.50.26:701][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.50.35:222][812]Cmd: SELECT NONE
+[2017.11.21-13.50.43:252][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.50.49:366][484]Cmd: SELECT NONE
+[2017.11.21-13.51.08:815][700]Cmd: ACTOR SELECT ALL
+[2017.11.21-13.51.11:379][990]Cmd: SELECT NONE
+[2017.11.21-13.51.23:407][353]Cmd: TRANSACTION UNDO
+[2017.11.21-13.51.23:407][353]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Map/NewMap.NewMap:PersistentLevel.ModelComponent_10' invalid (168 verts, 0 indices).
+[2017.11.21-13.51.23:410][353]LogPhysics: Warning: Attempt to build physics data for /Game/Map/NewMap.NewMap:PersistentLevel.ModelComponent_10.BodySetup_11 when we are unable to.
+[2017.11.21-13.51.44:024][682]Cmd: ACTOR SELECT OFCLASS CLASS=Brush
+[2017.11.21-13.51.45:663][875]LogEditorViewport: Clicking on Actor (context menu): Brush (Linear Stair 브러시)
+[2017.11.21-13.51.51:403][511]Cmd: POLY SELECT ALL
+[2017.11.21-13.51.56:961][156]Cmd: SELECT NONE
+[2017.11.21-13.52.05:823][212]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.52.05:840][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.52.05:840][212]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:52:05)
+[2017.11.21-13.52.05:840][212]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.52.05:847][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006727s)
+[2017.11.21-13.52.05:847][212]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.52.05:848][212]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2017.11.21-13.52.05:848][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.007592s)
+[2017.11.21-13.52.05:867][212]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.52.05:886][212]LogInit: FAudioDevice initialized.
+[2017.11.21-13.52.05:919][212]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.52.05:921][212]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.52.05
+[2017.11.21-13.52.05:921][212]LogWorld: Bringing up level for play took: 0.001377
+[2017.11.21-13.52.05:923][212]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.02
+[2017.11.21-13.52.51:739][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.52.56:448][228]Cmd: SELECT NONE
+[2017.11.21-13.52.56:970][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.52.59:150][547]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.52.59:176][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.52.59:176][547]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:52:59)
+[2017.11.21-13.52.59:176][547]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.52.59:180][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003699s)
+[2017.11.21-13.52.59:180][547]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.52.59:180][547]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2017.11.21-13.52.59:180][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004539s)
+[2017.11.21-13.52.59:199][547]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.52.59:218][547]LogInit: FAudioDevice initialized.
+[2017.11.21-13.52.59:248][547]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.52.59:250][547]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.52.59
+[2017.11.21-13.52.59:250][547]LogWorld: Bringing up level for play took: 0.001445
+[2017.11.21-13.52.59:252][547]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.651
+[2017.11.21-13.53.06:312][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.53.11:345][927]Cmd: SELECT NONE
+[2017.11.21-13.53.16:860][561]Cmd: TRANSACTION UNDO
+[2017.11.21-13.53.16:860][561]LogEditorTransaction: Undo 액터 생성
+[2017.11.21-13.53.24:396][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.53.26:055][632]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.53.26:071][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.53.26:071][632]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:53:26)
+[2017.11.21-13.53.26:071][632]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.53.26:076][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004781s)
+[2017.11.21-13.53.26:077][632]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.53.26:077][632]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2017.11.21-13.53.26:077][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.005559s)
+[2017.11.21-13.53.26:096][632]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.53.26:114][632]LogInit: FAudioDevice initialized.
+[2017.11.21-13.53.26:143][632]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.53.26:145][632]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.53.26
+[2017.11.21-13.53.26:145][632]LogWorld: Bringing up level for play took: 0.001413
+[2017.11.21-13.53.26:147][632]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.244
+[2017.11.21-13.53.48:234][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.54.01:903][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.54.21:630][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.54.35:458][816]Cmd: SELECT NONE
+[2017.11.21-13.54.36:077][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-13.54.37:100][  1]Cmd: SELECT NONE
+[2017.11.21-13.55.07:704][597]LogActorFactory: Actor Factory created SM_Shooter_City_Building_8
+[2017.11.21-13.55.08:458][686]LogActorFactory: Actor Factory created SM_Shooter_City_Building_8
+[2017.11.21-13.55.10:522][917]LogActorFactory: Actor Factory created SM_Shooter_City_Building_8
+[2017.11.21-13.55.11:390][ 15]LogActorFactory: Actor Factory created SM_Shooter_City_Building_8
+[2017.11.21-13.55.13:432][248]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.55.13:450][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.55.13:451][248]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:55:13)
+[2017.11.21-13.55.13:451][248]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.55.13:455][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003981s)
+[2017.11.21-13.55.13:455][248]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.55.13:455][248]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2017.11.21-13.55.13:456][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004928s)
+[2017.11.21-13.55.13:475][248]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.55.13:494][248]LogInit: FAudioDevice initialized.
+[2017.11.21-13.55.13:531][248]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.55.13:535][248]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.55.13
+[2017.11.21-13.55.13:536][248]LogWorld: Bringing up level for play took: 0.003739
+[2017.11.21-13.55.13:541][248]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.362
+[2017.11.21-13.55.28:804][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shooter_City_Building_8)
+[2017.11.21-13.55.48:052][227]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.55.48:069][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.55.48:069][227]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:55:48)
+[2017.11.21-13.55.48:069][227]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.55.48:073][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003849s)
+[2017.11.21-13.55.48:074][227]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.55.48:074][227]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2017.11.21-13.55.48:075][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.005094s)
+[2017.11.21-13.55.48:094][227]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.55.48:113][227]LogInit: FAudioDevice initialized.
+[2017.11.21-13.55.48:143][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.55.48:145][227]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.55.48
+[2017.11.21-13.55.48:145][227]LogWorld: Bringing up level for play took: 0.001564
+[2017.11.21-13.55.48:147][227]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.244
+[2017.11.21-13.56.45:061][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shooter_City_Building_8)
+[2017.11.21-13.56.59:265][679]Cmd: SELECT NONE
+[2017.11.21-13.57.11:918][188]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.57.11:936][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.57.11:936][188]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:57:11)
+[2017.11.21-13.57.11:936][188]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.57.11:940][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003737s)
+[2017.11.21-13.57.11:940][188]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.57.11:941][188]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2017.11.21-13.57.11:941][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004674s)
+[2017.11.21-13.57.11:959][188]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.57.11:979][188]LogInit: FAudioDevice initialized.
+[2017.11.21-13.57.12:011][188]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.57.12:013][188]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.57.12
+[2017.11.21-13.57.12:013][188]LogWorld: Bringing up level for play took: 0.001474
+[2017.11.21-13.57.12:015][188]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.112
+[2017.11.21-13.57.20:935][249]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.57.20:952][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.57.20:952][249]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:57:20)
+[2017.11.21-13.57.20:952][249]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.57.20:955][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003581s)
+[2017.11.21-13.57.20:956][249]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.57.20:956][249]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2017.11.21-13.57.20:956][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004673s)
+[2017.11.21-13.57.20:976][249]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.57.20:996][249]LogInit: FAudioDevice initialized.
+[2017.11.21-13.57.21:027][249]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.57.21:031][249]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.57.21
+[2017.11.21-13.57.21:032][249]LogWorld: Bringing up level for play took: 0.003352
+[2017.11.21-13.57.21:035][249]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.868
+[2017.11.21-13.57.33:382][720]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_Floor_BBiigg)
+[2017.11.21-13.57.35:858][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shooter_City_Building_8)
+[2017.11.21-13.57.38:867][298]Cmd: SELECT NONE
+[2017.11.21-13.59.26:229][ 16]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2017.11.21-13.59.26:230][ 16]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2017.11.21-13.59.32:142][687]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-13.59.32:159][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-13.59.32:159][687]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 7:59:32)
+[2017.11.21-13.59.32:159][687]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-13.59.32:163][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003931s)
+[2017.11.21-13.59.32:164][687]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-13.59.32:164][687]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2017.11.21-13.59.32:164][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004998s)
+[2017.11.21-13.59.32:183][687]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-13.59.32:203][687]LogInit: FAudioDevice initialized.
+[2017.11.21-13.59.32:233][687]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-13.59.32:235][687]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-22.59.32
+[2017.11.21-13.59.32:235][687]LogWorld: Bringing up level for play took: 0.001534
+[2017.11.21-13.59.32:237][687]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.334
+[2017.11.21-13.59.55:185][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SkyDome)
+[2017.11.21-14.00.07:055][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shooter_City_Building_8)
+[2017.11.21-14.00.10:746][230]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (Player Start)
+[2017.11.21-14.00.12:747][461]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.13:449][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2017.11.21-14.00.14:243][602]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Shooter_City_Building_9)
+[2017.11.21-14.00.16:320][837]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2017.11.21-14.00.16:326][837]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.25:621][900]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.30:979][506]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.34:019][841]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.35:113][970]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.42:625][839]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.43:895][989]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.00.46:289][250]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.00:193][872]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.04:764][382]LogEditorViewport: Clicking Background
+[2017.11.21-14.01.06:057][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.01.18:214][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.21-14.01.18:796][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2017.11.21-14.01.20:566][214]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Shooter_City_Building_9)
+[2017.11.21-14.01.22:360][426]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (Player Start)
+[2017.11.21-14.01.23:098][512]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.24:515][651]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.25:526][770]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.26:706][909]Cmd: TRANSACTION UNDO
+[2017.11.21-14.01.26:706][909]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-14.01.27:019][943]Cmd: TRANSACTION UNDO
+[2017.11.21-14.01.27:019][943]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-14.01.27:858][ 40]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Shooter_City_Building_8)
+[2017.11.21-14.01.27:864][ 40]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.31:127][429]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.52:752][ 22]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.01.53:722][130]Cmd: SELECT NONE
+[2017.11.21-14.01.55:857][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shooter_City_Building_8)
+[2017.11.21-14.02.06:970][712]Cmd: TRANSACTION UNDO
+[2017.11.21-14.02.06:970][712]LogEditorTransaction: Undo 액터 스케일
+[2017.11.21-14.02.09:238][966]Cmd: SELECT NONE
+[2017.11.21-14.02.21:757][448]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.21-14.02.23:626][669]Cmd: DELETE
+[2017.11.21-14.02.23:626][669]Cmd: ACTOR DELETE
+[2017.11.21-14.02.23:627][669]LogEditorActor: Deleted Actor: Brush
+[2017.11.21-14.02.23:639][669]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.11.21-14.02.26:834][ 47]LogActorFactory: Actor Factory created Cube
+[2017.11.21-14.02.26:921][ 56]LogActorFactory: Actor Factory created Cube
+[2017.11.21-14.03.37:527][306]Cmd: TRANSACTION UNDO
+[2017.11.21-14.03.37:527][306]LogEditorTransaction: Undo 액터 스케일
+[2017.11.21-14.04.40:579][606]Cmd: SELECT NONE
+[2017.11.21-14.04.41:123][671]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.04.41:142][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.04.41:142][671]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:04:41)
+[2017.11.21-14.04.41:142][671]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.04.41:146][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003724s)
+[2017.11.21-14.04.41:146][671]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.04.41:147][671]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2017.11.21-14.04.41:147][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004919s)
+[2017.11.21-14.04.41:166][671]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.04.41:185][671]LogInit: FAudioDevice initialized.
+[2017.11.21-14.04.41:222][671]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.04.41:228][671]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.04.41
+[2017.11.21-14.04.41:228][671]LogWorld: Bringing up level for play took: 0.004681
+[2017.11.21-14.04.41:235][671]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.669
+[2017.11.21-14.04.49:029][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.21-14.04.51:468][838]Cmd: SELECT NONE
+[2017.11.21-14.05.16:646][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.21-14.05.33:424][796]LogSlate: Took 0.022446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.21-14.05.41:289][727]Cmd: TRANSACTION UNDO
+[2017.11.21-14.05.41:289][727]LogEditorTransaction: Undo 스케일 설정
+[2017.11.21-14.05.41:522][752]Cmd: TRANSACTION UNDO
+[2017.11.21-14.05.41:523][752]LogEditorTransaction: Undo 스케일 설정
+[2017.11.21-14.05.42:231][830]Cmd: TRANSACTION UNDO
+[2017.11.21-14.05.42:231][830]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-14.06.38:966][467]Cmd: SELECT NONE
+[2017.11.21-14.06.40:792][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.21-14.06.42:229][838]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2017.11.21-14.06.59:359][837]Cmd: SELECT NONE
+[2017.11.21-14.07.01:389][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.21-14.07.01:939][115]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2017.11.21-14.07.02:377][163]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2017.11.21-14.07.05:267][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2017.11.21-14.07.08:066][818]Cmd: TRANSACTION UNDO
+[2017.11.21-14.07.08:066][818]LogEditorTransaction: Undo 액터 클릭
+[2017.11.21-14.07.08:488][844]Cmd: TRANSACTION UNDO
+[2017.11.21-14.07.08:488][844]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-14.07.09:728][987]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2017.11.21-14.07.20:834][278]Cmd: SELECT NONE
+[2017.11.21-14.07.22:870][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2017.11.21-14.07.23:449][568]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2017.11.21-14.07.23:822][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube8)
+[2017.11.21-14.07.24:578][693]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2017.11.21-14.07.25:405][788]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2017.11.21-14.07.26:958][950]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2017.11.21-14.07.28:357][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2017.11.21-14.07.30:472][352]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2017.11.21-14.07.44:972][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.11.21-14.07.47:924][361]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2017.11.21-14.07.50:948][697]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube19)
+[2017.11.21-14.07.51:758][789]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2017.11.21-14.07.52:221][840]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2017.11.21-14.07.52:616][883]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube20)
+[2017.11.21-14.07.53:643][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube29)
+[2017.11.21-14.07.54:424][ 89]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube30)
+[2017.11.21-14.07.54:720][120]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2017.11.21-14.07.54:998][149]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube33)
+[2017.11.21-14.07.56:163][282]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube34)
+[2017.11.21-14.07.56:535][322]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2017.11.21-14.07.56:916][363]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2017.11.21-14.07.57:585][437]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube25)
+[2017.11.21-14.07.58:047][488]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube32)
+[2017.11.21-14.07.58:394][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube24)
+[2017.11.21-14.07.58:740][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2017.11.21-14.07.59:060][596]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube22)
+[2017.11.21-14.07.59:408][633]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube21)
+[2017.11.21-14.07.59:721][666]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2017.11.21-14.08.00:515][755]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2017.11.21-14.08.00:976][806]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2017.11.21-14.08.01:399][852]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2017.11.21-14.08.01:888][906]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube14)
+[2017.11.21-14.08.07:876][597]Cmd: SELECT NONE
+[2017.11.21-14.08.08:513][673]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube14)
+[2017.11.21-14.08.13:877][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2017.11.21-14.08.14:538][360]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2017.11.21-14.08.14:977][408]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2017.11.21-14.08.15:378][452]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2017.11.21-14.08.25:750][619]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2017.11.21-14.08.26:709][728]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube14)
+[2017.11.21-14.08.27:710][842]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2017.11.21-14.08.28:193][895]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2017.11.21-14.08.34:691][660]Cmd: SELECT NONE
+[2017.11.21-14.08.46:359][ 12]EditorErrors: New page: 액터 붙임
+[2017.11.21-14.08.47:878][189]Cmd: TRANSACTION UNDO
+[2017.11.21-14.08.47:878][189]LogEditorTransaction: Undo 액터 클릭
+[2017.11.21-14.08.48:487][252]Cmd: TRANSACTION UNDO
+[2017.11.21-14.08.48:487][252]LogEditorTransaction: Undo 액터 붙이기
+[2017.11.21-14.08.48:488][252]LogActorComponent: ~FComponentReregisterContext: (/Game/Map/NewMap.NewMap:PersistentLevel.Cube5.StaticMeshComponent0) Component already registered.
+[2017.11.21-14.08.52:902][756]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2017.11.21-14.08.53:781][853]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube34)
+[2017.11.21-14.08.54:121][889]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2017.11.21-14.08.54:503][930]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube25)
+[2017.11.21-14.08.55:057][990]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube32)
+[2017.11.21-14.08.55:709][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2017.11.21-14.08.56:061][100]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2017.11.21-14.09.06:592][290]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.21-14.09.21:836][573]LogStaticMesh: SM_MERGED_Wall 스태틱 메시 빌드중...
+[2017.11.21-14.09.21:917][573]LogStaticMesh: Built static mesh [0.08s] /Game/Environment/Meshes/SM_MERGED_Wall.SM_MERGED_Wall
+[2017.11.21-14.09.27:639][845]LogStaticMesh: SM_MERGED_Cube3_13 스태틱 메시 빌드중...
+[2017.11.21-14.09.27:718][845]LogStaticMesh: Built static mesh [0.08s] /Game/SM_MERGED_Cube3_13.SM_MERGED_Cube3_13
+[2017.11.21-14.09.27:815][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.21-14.09.27:982][846]LogSavePackage: Save=136.22ms
+[2017.11.21-14.09.27:982][846]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/NewMap_Auto19C0718CF49C04F55CC5126B47FED4420.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto1.umap'
+[2017.11.21-14.09.27:984][846]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto1.umap
+[2017.11.21-14.09.27:985][846]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 0.199
+[2017.11.21-14.09.27:985][846]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2017.11.21-14.09.27:987][846]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Meshes/SM_MERGED_Wall] ([1] browsable assets)...
+[2017.11.21-14.09.28:000][846]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Meshes/SM_MERGED_Wall.SM_MERGED_Wall]
+[2017.11.21-14.09.28:000][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Meshes/SM_MERGED_Wall]
+[2017.11.21-14.09.28:015][846]LogSavePackage: Save=13.86ms
+[2017.11.21-14.09.28:015][846]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/SM_MERGED_Wall_Auto1C419888D4621104993F6C7849099AB5D.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Environment/Meshes/SM_MERGED_Wall_Auto1.uasset'
+[2017.11.21-14.09.28:018][846]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Environment/Meshes/SM_MERGED_Wall_Auto1.uasset
+[2017.11.21-14.09.28:018][846]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_MERGED_Cube3_13] ([1] browsable assets)...
+[2017.11.21-14.09.28:031][846]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_MERGED_Cube3_13.SM_MERGED_Cube3_13]
+[2017.11.21-14.09.28:031][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_MERGED_Cube3_13]
+[2017.11.21-14.09.28:031][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_MERGED_Cube3_13" FILE="../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/SM_MERGED_Cube3_13_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.21-14.09.28:046][846]LogSavePackage: Save=13.72ms
+[2017.11.21-14.09.28:046][846]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/SM_MERGED_Cube3_13_Auto1DFDE433F488F0023811F9D8853BF33EC.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/SM_MERGED_Cube3_13_Auto1.uasset'
+[2017.11.21-14.09.28:047][846]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/SM_MERGED_Cube3_13_Auto1.uasset
+[2017.11.21-14.09.28:047][846]LogFileHelpers: Auto-saving content packages took 0.061
+[2017.11.21-14.09.45:916][368]Cmd: TRANSACTION UNDO
+[2017.11.21-14.09.45:916][368]LogEditorTransaction: Undo 액터 클릭 (맥락 메뉴)
+[2017.11.21-14.09.46:378][368]Cmd: TRANSACTION UNDO
+[2017.11.21-14.09.46:378][368]LogEditorTransaction: Undo 액터 클릭
+[2017.11.21-14.09.47:071][368]Cmd: TRANSACTION UNDO
+[2017.11.21-14.09.47:071][368]LogEditorTransaction: Undo 액터 클릭
+[2017.11.21-14.09.52:826][368]LogStaticMesh: SM_MERGED_Wall 스태틱 메시 빌드중...
+[2017.11.21-14.09.52:906][368]LogStaticMesh: Built static mesh [0.08s] /Game/Environment/Meshes/SM_MERGED_Wall.SM_MERGED_Wall
+[2017.11.21-14.09.54:687][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.21-14.09.55:612][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.10.11:448][114]LogStaticMesh: SM_MERGED_Wall 스태틱 메시 빌드중...
+[2017.11.21-14.10.11:533][114]LogStaticMesh: Built static mesh [0.08s] /Game/Environment/Meshes/SM_MERGED_Wall.SM_MERGED_Wall
+[2017.11.21-14.10.14:806][493]LogEditorViewport: Clicking Background
+[2017.11.21-14.10.15:267][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.10.25:065][659]LogActorFactory: Actor Factory created 1M_Cube
+[2017.11.21-14.10.25:262][677]LogActorFactory: Actor Factory created 1M_Cube
+[2017.11.21-14.10.27:526][933]LogActorFactory: Actor Factory created 1M_Cube_Chamfer
+[2017.11.21-14.10.27:621][942]LogActorFactory: Actor Factory created 1M_Cube_Chamfer
+[2017.11.21-14.10.30:386][263]Cmd: SELECT NONE
+[2017.11.21-14.10.36:544][996]Cmd: TRANSACTION UNDO
+[2017.11.21-14.10.36:544][996]LogEditorTransaction: Undo 선택 않음
+[2017.11.21-14.10.36:898][ 29]Cmd: TRANSACTION UNDO
+[2017.11.21-14.10.36:898][ 29]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-14.10.37:423][ 88]Cmd: TRANSACTION UNDO
+[2017.11.21-14.10.37:423][ 88]LogEditorTransaction: Undo 액터 생성
+[2017.11.21-14.10.37:820][132]Cmd: TRANSACTION UNDO
+[2017.11.21-14.10.37:820][132]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-14.10.38:293][188]Cmd: TRANSACTION UNDO
+[2017.11.21-14.10.38:293][188]LogEditorTransaction: Undo 액터 생성
+[2017.11.21-14.10.58:129][452]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.10.58:147][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.10.58:147][452]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:10:58)
+[2017.11.21-14.10.58:147][452]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.10.58:151][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003721s)
+[2017.11.21-14.10.58:151][452]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.10.58:151][452]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2017.11.21-14.10.58:152][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004676s)
+[2017.11.21-14.10.58:171][452]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.10.58:190][452]LogInit: FAudioDevice initialized.
+[2017.11.21-14.10.58:228][452]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.10.58:233][452]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.10.58
+[2017.11.21-14.10.58:234][452]LogWorld: Bringing up level for play took: 0.004380
+[2017.11.21-14.10.58:239][452]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.336
+[2017.11.21-14.11.09:877][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.13:971][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.17:100][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.18:006][759]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.18:607][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.24:671][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.27:418][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.27:754][860]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.21-14.11.28:056][892]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.21-14.11.28:799][979]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.21-14.11.34:221][610]LogActorFactory: Actor Factory created SM_MERGED_Wall
+[2017.11.21-14.11.34:855][683]LogActorFactory: Actor Factory created SM_MERGED_Wall
+[2017.11.21-14.11.41:726][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall)
+[2017.11.21-14.11.42:988][594]Cmd: DELETE
+[2017.11.21-14.11.42:988][594]Cmd: ACTOR DELETE
+[2017.11.21-14.11.42:990][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.21-14.11.42:997][594]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.21-14.11.43:309][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall2)
+[2017.11.21-14.11.45:920][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.21-14.11.46:710][ 28]Cmd: DELETE
+[2017.11.21-14.11.46:710][ 28]Cmd: ACTOR DELETE
+[2017.11.21-14.11.46:711][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.21-14.11.46:718][ 28]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.11.21-14.11.47:088][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2017.11.21-14.11.47:273][ 90]Cmd: DELETE
+[2017.11.21-14.11.47:273][ 90]Cmd: ACTOR DELETE
+[2017.11.21-14.11.47:275][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.21-14.11.47:281][ 90]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.11.21-14.11.47:826][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall2)
+[2017.11.21-14.13.22:691][157]Cmd: SELECT NONE
+[2017.11.21-14.13.32:934][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall5)
+[2017.11.21-14.14.03:467][822]Cmd: SELECT NONE
+[2017.11.21-14.14.05:953][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall8)
+[2017.11.21-14.14.17:393][418]Cmd: SELECT NONE
+[2017.11.21-14.14.19:922][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall9)
+[2017.11.21-14.14.38:575][905]Cmd: SELECT NONE
+[2017.11.21-14.14.44:768][627]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.14.44:785][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.14.44:785][627]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:14:44)
+[2017.11.21-14.14.44:785][627]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.14.44:789][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004199s)
+[2017.11.21-14.14.44:790][627]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.14.44:790][627]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2017.11.21-14.14.44:790][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.005235s)
+[2017.11.21-14.14.44:809][627]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.14.44:828][627]LogInit: FAudioDevice initialized.
+[2017.11.21-14.14.44:861][627]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.14.44:863][627]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.14.44
+[2017.11.21-14.14.44:863][627]LogWorld: Bringing up level for play took: 0.001821
+[2017.11.21-14.14.44:865][627]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.962
+[2017.11.21-14.14.57:982][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Wall2)
+[2017.11.21-14.14.58:603][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MERGED_Wall3)
+[2017.11.21-14.14.59:019][245]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MERGED_Wall4)
+[2017.11.21-14.14.59:420][289]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MERGED_Wall5)
+[2017.11.21-14.14.59:823][333]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MERGED_Wall6)
+[2017.11.21-14.15.00:225][377]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MERGED_Wall7)
+[2017.11.21-14.15.00:612][419]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MERGED_Wall8)
+[2017.11.21-14.15.01:108][474]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_MERGED_Wall9)
+[2017.11.21-14.15.03:392][743]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_Wall5)
+[2017.11.21-14.15.26:260][323]LogStaticMesh: SM_MERGED_Big_Wall 스태틱 메시 빌드중...
+[2017.11.21-14.15.26:649][323]LogStaticMesh: Built static mesh [0.39s] /Game/Environment/Meshes/SM_MERGED_Big_Wall.SM_MERGED_Big_Wall
+[2017.11.21-14.15.32:741][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.16.32:496][798]Cmd: SELECT NONE
+[2017.11.21-14.16.36:478][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.16.59:890][989]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.16.59:907][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.16.59:907][989]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:16:59)
+[2017.11.21-14.16.59:907][989]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.16.59:911][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003696s)
+[2017.11.21-14.16.59:912][989]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.16.59:912][989]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2017.11.21-14.16.59:912][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004501s)
+[2017.11.21-14.16.59:931][989]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.16.59:950][989]LogInit: FAudioDevice initialized.
+[2017.11.21-14.16.59:978][989]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.16.59:980][989]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.16.59
+[2017.11.21-14.16.59:980][989]LogWorld: Bringing up level for play took: 0.002008
+[2017.11.21-14.16.59:982][989]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.079
+[2017.11.21-14.17.08:712][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.17.27:084][191]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.27:084][191]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.27:563][241]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.27:563][241]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.28:222][318]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.28:222][318]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.28:410][340]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.28:410][340]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.28:580][360]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.28:580][360]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.28:747][379]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.28:747][379]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.28:933][400]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.28:933][400]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.29:068][415]Cmd: TRANSACTION UNDO
+[2017.11.21-14.17.29:068][415]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.11.21-14.17.51:904][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.17.54:740][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.17.55:392][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.17.55:843][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.17.56:802][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.17.57:562][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.17.58:307][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.18.00:260][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.18.00:911][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.18.01:620][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.18.04:405][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.18.05:282][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.18.08:595][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.18.09:239][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.18.11:430][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.18.49:135][858]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.18.49:702][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.18.50:304][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.18.50:905][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.18.51:485][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.18.55:913][647]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.19.15:712][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.19.17:391][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.19.18:818][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.19.19:596][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.19.20:171][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.19.21:092][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.19.21:444][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.19.46:961][643]Cmd: SELECT NONE
+[2017.11.21-14.19.49:683][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.19.57:402][855]Cmd: SELECT NONE
+[2017.11.21-14.20.03:810][613]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.20.03:827][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.20.03:828][613]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:20:03)
+[2017.11.21-14.20.03:828][613]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.20.03:831][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003742s)
+[2017.11.21-14.20.03:832][613]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.20.03:832][613]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2017.11.21-14.20.03:832][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004875s)
+[2017.11.21-14.20.03:851][613]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.20.03:870][613]LogInit: FAudioDevice initialized.
+[2017.11.21-14.20.03:902][613]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.20.03:904][613]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.20.03
+[2017.11.21-14.20.03:904][613]LogWorld: Bringing up level for play took: 0.002140
+[2017.11.21-14.20.03:906][613]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.003
+[2017.11.21-14.20.15:154][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.20.22:967][868]Cmd: SELECT NONE
+[2017.11.21-14.20.32:052][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.20.37:032][541]Cmd: SELECT NONE
+[2017.11.21-14.20.37:460][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.20.39:156][790]Cmd: SELECT NONE
+[2017.11.21-14.20.39:758][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.20.41:254][ 36]Cmd: SELECT NONE
+[2017.11.21-14.20.41:648][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.20.43:368][284]Cmd: SELECT NONE
+[2017.11.21-14.20.45:086][490]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.20.45:102][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.20.45:103][490]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:20:45)
+[2017.11.21-14.20.45:103][490]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.20.45:107][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003437s)
+[2017.11.21-14.20.45:107][490]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.20.45:107][490]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2017.11.21-14.20.45:108][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004438s)
+[2017.11.21-14.20.45:126][490]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.20.45:145][490]LogInit: FAudioDevice initialized.
+[2017.11.21-14.20.45:181][490]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.20.45:187][490]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.20.45
+[2017.11.21-14.20.45:188][490]LogWorld: Bringing up level for play took: 0.005773
+[2017.11.21-14.20.45:193][490]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.71
+[2017.11.21-14.21.19:512][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall3)
+[2017.11.21-14.21.44:073][425]Cmd: SELECT NONE
+[2017.11.21-14.22.16:157][256]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.22.16:173][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.22.16:174][256]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:22:16)
+[2017.11.21-14.22.16:174][256]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.22.16:177][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003734s)
+[2017.11.21-14.22.16:178][256]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.22.16:178][256]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2017.11.21-14.22.16:179][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004952s)
+[2017.11.21-14.22.16:197][256]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.22.16:216][256]LogInit: FAudioDevice initialized.
+[2017.11.21-14.22.16:245][256]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.22.16:248][256]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.22.16
+[2017.11.21-14.22.16:248][256]LogWorld: Bringing up level for play took: 0.002316
+[2017.11.21-14.22.16:250][256]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.347
+[2017.11.21-14.22.31:563][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.22.39:638][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.22.46:825][798]Cmd: SELECT NONE
+[2017.11.21-14.22.55:400][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall2)
+[2017.11.21-14.23.06:740][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.23.10:871][605]Cmd: TRANSACTION UNDO
+[2017.11.21-14.23.10:871][605]LogEditorTransaction: Undo 액터 클릭
+[2017.11.21-14.23.11:291][641]Cmd: TRANSACTION UNDO
+[2017.11.21-14.23.11:291][641]LogEditorTransaction: Undo 액터 이동
+[2017.11.21-14.23.13:586][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.23.20:499][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.23.23:164][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.23.48:051][940]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.23.48:066][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.23.48:066][940]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:23:48)
+[2017.11.21-14.23.48:066][940]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.23.48:069][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003412s)
+[2017.11.21-14.23.48:070][940]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.23.48:070][940]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2017.11.21-14.23.48:070][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004326s)
+[2017.11.21-14.23.48:090][940]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.23.48:110][940]LogInit: FAudioDevice initialized.
+[2017.11.21-14.23.48:141][940]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.23.48:143][940]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.23.48
+[2017.11.21-14.23.48:144][940]LogWorld: Bringing up level for play took: 0.002190
+[2017.11.21-14.23.48:146][940]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.242
+[2017.11.21-14.24.14:385][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.24.17:790][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.24.18:468][506]Cmd: SELECT NONE
+[2017.11.21-14.24.40:514][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.24.43:931][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.24.44:798][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.24.45:169][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.24.47:539][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sky_Clouds)
+[2017.11.21-14.24.55:651][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.24.56:585][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall)
+[2017.11.21-14.24.57:221][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Big_Wall4)
+[2017.11.21-14.24.58:414][255]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.24.58:430][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.24.58:430][255]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:24:58)
+[2017.11.21-14.24.58:430][255]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.24.58:434][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003295s)
+[2017.11.21-14.24.58:434][255]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.24.58:435][255]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2017.11.21-14.24.58:435][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004194s)
+[2017.11.21-14.24.58:454][255]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.24.58:473][255]LogInit: FAudioDevice initialized.
+[2017.11.21-14.24.58:503][255]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.24.58:506][255]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.24.58
+[2017.11.21-14.24.58:506][255]LogWorld: Bringing up level for play took: 0.002278
+[2017.11.21-14.24.58:508][255]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.605
+[2017.11.21-14.26.32:757][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.21-14.26.32:808][701]LogSavePackage: Save=46.52ms
+[2017.11.21-14.26.32:808][701]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/NewMap_Auto27738808B45AC253DDC637D8E98E13710.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto2.umap'
+[2017.11.21-14.26.32:809][701]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto2.umap
+[2017.11.21-14.26.32:811][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 0.062
+[2017.11.21-14.26.32:811][701]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.062
+[2017.11.21-14.26.32:813][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Meshes/SM_MERGED_Wall] ([1] browsable assets)...
+[2017.11.21-14.26.32:822][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Meshes/SM_MERGED_Wall.SM_MERGED_Wall]
+[2017.11.21-14.26.32:822][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Meshes/SM_MERGED_Wall]
+[2017.11.21-14.26.32:837][701]LogSavePackage: Save=14.32ms
+[2017.11.21-14.26.32:837][701]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/SM_MERGED_Wall_Auto251471E884DF2FA2F4A4DA19CDCC45697.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Environment/Meshes/SM_MERGED_Wall_Auto2.uasset'
+[2017.11.21-14.26.32:839][701]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Environment/Meshes/SM_MERGED_Wall_Auto2.uasset
+[2017.11.21-14.26.32:840][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Meshes/SM_MERGED_Big_Wall] ([1] browsable assets)...
+[2017.11.21-14.26.32:848][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Meshes/SM_MERGED_Big_Wall.SM_MERGED_Big_Wall]
+[2017.11.21-14.26.32:848][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Meshes/SM_MERGED_Big_Wall]
+[2017.11.21-14.26.32:887][701]LogSavePackage: Save=38.25ms
+[2017.11.21-14.26.32:887][701]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/SM_MERGED_Big_Wall_Auto2C0E389144CCFAC2EA261E3B4485031B9.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Environment/Meshes/SM_MERGED_Big_Wall_Auto2.uasset'
+[2017.11.21-14.26.32:889][701]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Environment/Meshes/SM_MERGED_Big_Wall_Auto2.uasset
+[2017.11.21-14.26.32:889][701]LogFileHelpers: Auto-saving content packages took 0.078
+[2017.11.21-14.27.51:042][ 96]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.21-14.27.52:677][289]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.27.53:588][397]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.27.53:605][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.27.53:605][397]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:27:53)
+[2017.11.21-14.27.53:605][397]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.27.53:609][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003738s)
+[2017.11.21-14.27.53:609][397]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.27.53:610][397]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2017.11.21-14.27.53:610][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004863s)
+[2017.11.21-14.27.53:629][397]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.27.53:649][397]LogInit: FAudioDevice initialized.
+[2017.11.21-14.27.53:677][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.27.53:680][397]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.27.53
+[2017.11.21-14.27.53:680][397]LogWorld: Bringing up level for play took: 0.002400
+[2017.11.21-14.27.53:682][397]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.221
+[2017.11.21-14.28.03:773][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.21-14.28.04:510][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2017.11.21-14.28.28:332][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Floor_BBiigg)
+[2017.11.21-14.28.29:006][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shooter_City_Building_8)
+[2017.11.21-14.28.39:771][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shooter_City_Building_9)
+[2017.11.21-14.28.40:547][823]Cmd: DELETE
+[2017.11.21-14.28.40:547][823]Cmd: ACTOR DELETE
+[2017.11.21-14.28.40:549][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.21-14.28.40:556][823]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.21-14.28.41:631][952]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.28.41:646][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.28.41:646][952]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:28:41)
+[2017.11.21-14.28.41:646][952]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.28.41:650][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003755s)
+[2017.11.21-14.28.41:651][952]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.28.41:651][952]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2017.11.21-14.28.41:651][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004573s)
+[2017.11.21-14.28.41:670][952]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.28.41:691][952]LogInit: FAudioDevice initialized.
+[2017.11.21-14.28.41:719][952]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.28.41:722][952]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.28.41
+[2017.11.21-14.28.41:722][952]LogWorld: Bringing up level for play took: 0.002383
+[2017.11.21-14.28.41:724][952]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.179
+[2017.11.21-14.29.10:985][431]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.21-14.29.11:722][516]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.29.16:244][ 46]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.21-14.29.33:628][ 82]Cmd: SELECT NONE
+[2017.11.21-14.29.35:240][267]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.29.35:257][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.29.35:257][267]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:29:35)
+[2017.11.21-14.29.35:257][267]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.29.35:261][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004272s)
+[2017.11.21-14.29.35:262][267]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.29.35:262][267]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2017.11.21-14.29.35:262][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.005154s)
+[2017.11.21-14.29.35:281][267]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.29.35:300][267]LogInit: FAudioDevice initialized.
+[2017.11.21-14.29.35:334][267]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.29.35:345][267]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.29.35
+[2017.11.21-14.29.35:346][267]LogWorld: Bringing up level for play took: 0.009749
+[2017.11.21-14.29.35:354][267]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.55
+[2017.11.21-14.29.40:120][820]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.29.55:422][625]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.29.55:438][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.29.55:438][625]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:29:55)
+[2017.11.21-14.29.55:438][625]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.29.55:442][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004139s)
+[2017.11.21-14.29.55:443][625]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.29.55:443][625]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2017.11.21-14.29.55:443][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004848s)
+[2017.11.21-14.29.55:462][625]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.29.55:481][625]LogInit: FAudioDevice initialized.
+[2017.11.21-14.29.55:511][625]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.29.55:513][625]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.29.55
+[2017.11.21-14.29.55:514][625]LogWorld: Bringing up level for play took: 0.002414
+[2017.11.21-14.29.55:515][625]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.388
+[2017.11.21-14.30.02:305][426]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.30.07:974][ 95]MapCheck: New page: 맵 체크
+[2017.11.21-14.30.07:983][ 95]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.21-14.30.07:986][ 95]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.21-14.30.07:998][ 95]LightingResults: New page: 라이팅 빌드 - 2017. 11. 22. 오전 8:30:07
+[2017.11.21-14.30.08:091][ 95]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.21-14.30.08:292][ 95]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.21-14.30.08:301][ 95]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.21-14.30.09:308][ 95]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.21-14.30.09:308][ 95]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19588
+[2017.11.21-14.30.12:532][ 95]LightingResults: Warning: 설정된 임포턴스 볼륨이 없는데다 씬이 꽤 커서 자동 합성된 볼륨으로는 괜찮은 결과가 나지 않을 것입니다. 씬의 퀄리티와 라이팅 빌드 시간 최적화를 위해 라이트매스 임포턴스 볼륨을 꼭 맞게 추가해 주시기 바랍니다.
+[2017.11.21-14.30.12:532][ 95]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.21-14.30.12:532][ 95]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.21-14.30.12:532][ 95]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.21-14.30.12:532][ 95]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.21-14.30.12:532][ 95]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.21-14.30.12:734][ 95]LogEditorBuildUtils: Build time 0:04
+[2017.11.21-14.30.12:795][ 96]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Laser, compiling. 
+[2017.11.21-14.30.12:806][ 96]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Laser, compiling. 
+[2017.11.21-14.30.22:113][121]Job is a success!
+[2017.11.21-14.30.22:581][122]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.099s
+[2017.11.21-14.30.22:581][122]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.11.21-14.30.22:581][122]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2017.11.21-14.30.22:581][122]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.21-14.30.22:581][122]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.21-14.30.22:581][122]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.21-14.30.22:581][122]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.21-14.30.22:930][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2017.11.21-14.30.22:930][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2017.11.21-14.30.22:930][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.11.21-14.30.22:930][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.11.21-14.30.22:930][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2017.11.21-14.30.22:930][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2017.11.21-14.30.22:930][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2017.11.21-14.30.22:931][122]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (G8, 256X256)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 256X256)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (G8, 256X256)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_9 (G8, 64X64)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_10 (G8, 32X32)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_11 (G8, 128X32)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (G8, 256X256)
+[2017.11.21-14.30.22:966][122]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_4 (G8, 256X256)
+[2017.11.21-14.30.23:030][122]Lightmass on DESKTOP-473DMHI: 6.71 sec total, 185 ms importing, 80 ms setup, 1.79 sec photons, 4.44 sec processing, 0 ms extra exporting [44/44 mappings]. Threads: 30.9 sec total, 15.4 sec processing.
+[2017.11.21-14.30.23:051][122]LogStaticLightingSystem: Illumination: 14.7 sec (314 ms encoding lightmaps, 34 ms encoding shadowmaps)
+[2017.11.21-14.30.23:051][122]LogStaticLightingSystem: Lightmap texture memory:  3.1 MB (2.6 MB streaming, 0.5 MB non-streaming), 16 textures
+[2017.11.21-14.30.23:051][122]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 8 textures
+[2017.11.21-14.30.23:534][122]DumpUnbuiltLightIteractions
+[2017.11.21-14.30.23:534][122]Lights with unbuilt interactions: 0
+[2017.11.21-14.30.23:534][122]
+[2017.11.21-14.30.23:534][122]Primitives with unbuilt interactions: 0
+[2017.11.21-14.30.23:544][123]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.21-14.30.23:545][123]MapCheck: New page: NewMap - 2017. 11. 22. 오전 8:30:23
+[2017.11.21-14.30.23:650][123]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 106.134ms.
+[2017.11.21-14.30.44:931][441]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.30.44:948][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.30.44:948][441]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:30:44)
+[2017.11.21-14.30.44:948][441]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.30.44:951][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003255s)
+[2017.11.21-14.30.44:952][441]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.30.44:952][441]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2017.11.21-14.30.44:952][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004013s)
+[2017.11.21-14.30.44:972][441]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.30.44:991][441]LogInit: FAudioDevice initialized.
+[2017.11.21-14.30.45:021][441]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.30.45:024][441]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.30.45
+[2017.11.21-14.30.45:024][441]LogWorld: Bringing up level for play took: 0.002446
+[2017.11.21-14.30.45:026][441]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.877
+[2017.11.21-14.30.50:538][ 79]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.31.01:202][308]Cmd: SELECT NONE
+[2017.11.21-14.31.05:327][790]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.31.25:479][173]Cmd: TRANSACTION UNDO
+[2017.11.21-14.31.25:479][173]LogEditorTransaction: Undo Attenuation Radius 편집
+[2017.11.21-14.31.33:891][177]Cmd: TRANSACTION UNDO
+[2017.11.21-14.31.33:891][177]LogEditorTransaction: Undo Source Length 편집
+[2017.11.21-14.31.37:031][548]Cmd: TRANSACTION UNDO
+[2017.11.21-14.31.37:031][548]LogEditorTransaction: Undo Indirect Lighting Intensity 편집
+[2017.11.21-14.31.41:676][103]Cmd: TRANSACTION UNDO
+[2017.11.21-14.31.41:676][103]LogEditorTransaction: Undo Editor Billboard Scale 편집
+[2017.11.21-14.31.56:027][806]Cmd: SELECT NONE
+[2017.11.21-14.31.59:791][251]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.32.07:258][ 93]Cmd: TRANSACTION UNDO
+[2017.11.21-14.32.07:258][ 93]LogEditorTransaction: Undo 액터 클릭
+[2017.11.21-14.32.13:885][862]Cmd: SELECT NONE
+[2017.11.21-14.32.15:109][  9]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.32.15:127][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.32.15:127][  9]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:32:15)
+[2017.11.21-14.32.15:127][  9]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.32.15:131][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003379s)
+[2017.11.21-14.32.15:131][  9]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.32.15:131][  9]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2017.11.21-14.32.15:131][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004113s)
+[2017.11.21-14.32.15:152][  9]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.32.15:171][  9]LogInit: FAudioDevice initialized.
+[2017.11.21-14.32.15:198][  9]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.32.15:202][  9]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.32.15
+[2017.11.21-14.32.15:202][  9]LogWorld: Bringing up level for play took: 0.003321
+[2017.11.21-14.32.15:207][  9]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.696
+[2017.11.21-14.32.17:932][322]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-32010.434 Y=41010.000 Z=-10372.164] for [FirstPersonProjectile_C]
+[2017.11.21-14.32.22:452][847]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.11.21-14.32.23:307][945]Cmd: DELETE
+[2017.11.21-14.32.23:307][945]Cmd: ACTOR DELETE
+[2017.11.21-14.32.23:309][945]LogEditorActor: Deleted Actor: PointLight
+[2017.11.21-14.32.23:316][945]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.21-14.32.25:847][243]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.32.26:636][333]LogEditorViewport: Clicking on Actor (context menu): SpotLight (SpotLight)
+[2017.11.21-14.32.30:327][770]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.32.30:449][783]LogEditorViewport: Clicking on Component (LMB): SpotLightComponent (LightComponent0)
+[2017.11.21-14.32.30:711][812]LogEditorViewport: Clicking on Component (LMB): SpotLightComponent (LightComponent0)
+[2017.11.21-14.32.31:092][856]LogEditorViewport: Clicking on Actor (double click): SpotLight (SpotLight)
+[2017.11.21-14.32.31:324][881]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.21-14.32.45:610][542]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.32.45:627][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.32.45:627][542]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:32:45)
+[2017.11.21-14.32.45:627][542]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.32.45:631][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003668s)
+[2017.11.21-14.32.45:631][542]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.32.45:631][542]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2017.11.21-14.32.45:631][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004362s)
+[2017.11.21-14.32.45:651][542]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.32.45:671][542]LogInit: FAudioDevice initialized.
+[2017.11.21-14.32.45:703][542]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.32.45:705][542]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.32.45
+[2017.11.21-14.32.45:706][542]LogWorld: Bringing up level for play took: 0.002497
+[2017.11.21-14.32.45:708][542]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.195
+[2017.11.21-14.32.50:689][118]MapCheck: New page: 맵 체크
+[2017.11.21-14.32.50:700][118]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.21-14.32.50:700][118]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.21-14.32.51:423][118]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.21-14.32.51:428][118]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2017.11.21-14.32.51:432][118]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_skydome_2, compiling. 
+[2017.11.21-14.32.51:437][118]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Cloud_2, compiling. 
+[2017.11.21-14.32.51:443][118]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FFA_Floor_02_Dark, compiling. 
+[2017.11.21-14.32.51:448][118]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FFA_Wall_04, compiling. 
+[2017.11.21-14.32.51:453][118]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Laser, compiling. 
+[2017.11.21-14.32.52:036][118]TextureStreamingBuild: Display: Compiling optional shaders took 0.620 seconds.
+[2017.11.21-14.32.52:056][118]LogLevel: Display: Export Material TexCoord Scales took 0.019 seconds.
+[2017.11.21-14.32.52:064][118]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2017.11.21-14.32.52:070][118]LightingResults: New page: 라이팅 빌드 - 2017. 11. 22. 오전 8:32:52
+[2017.11.21-14.32.52:079][118]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.21-14.32.52:082][118]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.21-14.32.52:082][118]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.21-14.32.52:083][118]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.21-14.32.52:083][118]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19588
+[2017.11.21-14.32.56:610][118]LightingResults: Warning: 설정된 임포턴스 볼륨이 없는데다 씬이 꽤 커서 자동 합성된 볼륨으로는 괜찮은 결과가 나지 않을 것입니다. 씬의 퀄리티와 라이팅 빌드 시간 최적화를 위해 라이트매스 임포턴스 볼륨을 꼭 맞게 추가해 주시기 바랍니다.
+[2017.11.21-14.32.56:610][118]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.21-14.32.56:610][118]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.21-14.32.56:610][118]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.21-14.32.56:610][118]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.21-14.32.56:610][118]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.21-14.32.56:688][118]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.21-14.32.56:688][118]MapCheck: New page: NewMap - 2017. 11. 22. 오전 8:32:56
+[2017.11.21-14.32.56:689][118]MapCheck: Error: WorldSettings_1 맵 라이팅을 리빌드해야 합니다. 
+[2017.11.21-14.32.56:775][118]MapCheck: 맵 체크 완료: 오류 1 회, 경고 0 회, 소요 시간 87.063ms.
+[2017.11.21-14.32.56:798][118]LogEditorBuildUtils: Build time 0:06
+[2017.11.21-14.33.04:373][735]Job is a success!
+[2017.11.21-14.33.04:508][737]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.090s
+[2017.11.21-14.33.04:508][737]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.11.21-14.33.04:508][737]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2017.11.21-14.33.04:508][737]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.21-14.33.04:508][737]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.21-14.33.04:508][737]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.21-14.33.04:508][737]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_6 (AutoDXT, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_6 (DXT1, 512X512)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_8 (AutoDXT, 128X128)
+[2017.11.21-14.33.04:812][737]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_8 (DXT1, 128X128)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_12 (G8, 256X256)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_13 (G8, 256X256)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_14 (G8, 256X256)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_17 (G8, 64X64)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_18 (G8, 32X32)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_19 (G8, 128X32)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_15 (G8, 256X256)
+[2017.11.21-14.33.04:845][737]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_16 (G8, 256X256)
+[2017.11.21-14.33.04:869][737]Lightmass on DESKTOP-473DMHI: 6.93 sec total, 204 ms importing, 94 ms setup, 2.06 sec photons, 4.53 sec processing, 0 ms extra exporting [44/44 mappings]. Threads: 31.5 sec total, 18.1 sec processing.
+[2017.11.21-14.33.04:877][737]LogStaticLightingSystem: Illumination: 12.7 sec (272 ms encoding lightmaps, 30 ms encoding shadowmaps)
+[2017.11.21-14.33.04:877][737]LogStaticLightingSystem: Lightmap texture memory:  3.1 MB (2.6 MB streaming, 0.5 MB non-streaming), 16 textures
+[2017.11.21-14.33.04:877][737]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 8 textures
+[2017.11.21-14.33.05:620][737]DumpUnbuiltLightIteractions
+[2017.11.21-14.33.05:620][737]Lights with unbuilt interactions: 0
+[2017.11.21-14.33.05:620][737]
+[2017.11.21-14.33.05:620][737]Primitives with unbuilt interactions: 0
+[2017.11.21-14.33.05:626][738]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.21-14.33.05:626][738]MapCheck: New page: NewMap - 2017. 11. 22. 오전 8:33:05
+[2017.11.21-14.33.05:710][738]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 83.993ms.
+[2017.11.21-14.33.38:902][713]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-14.33.38:919][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-14.33.38:919][713]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 8:33:38)
+[2017.11.21-14.33.38:919][713]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-14.33.38:923][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003504s)
+[2017.11.21-14.33.38:923][713]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-14.33.38:923][713]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2017.11.21-14.33.38:923][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.004282s)
+[2017.11.21-14.33.38:943][713]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-14.33.38:961][713]LogInit: FAudioDevice initialized.
+[2017.11.21-14.33.38:989][713]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-14.33.38:994][713]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.21-23.33.38
+[2017.11.21-14.33.38:994][713]LogWorld: Bringing up level for play took: 0.005029
+[2017.11.21-14.33.39:000][713]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.903
+[2017.11.21-14.37.13:670][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.21-14.37.13:791][449]LogSavePackage: Save=117.47ms
+[2017.11.21-14.37.13:791][449]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/NewMap_Auto389D9CA384F831B9B59119DB62CFAB5DF.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto3.umap'
+[2017.11.21-14.37.13:793][449]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_Auto3.umap
+[2017.11.21-14.37.13:794][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 0.132
+[2017.11.21-14.37.13:794][449]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
+[2017.11.21-14.37.13:796][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/NewMap_BuiltData] ([1] browsable assets)...
+[2017.11.21-14.37.13:796][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/NewMap_BuiltData]
+[2017.11.21-14.37.13:796][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_BuiltData_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.11.21-14.37.13:817][449]LogSavePackage: Save=17.09ms
+[2017.11.21-14.37.13:817][449]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/NewMap_BuiltData_Auto3995913334F98119B1D74BA95A90E6303.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_BuiltData_Auto3.uasset'
+[2017.11.21-14.37.13:818][449]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Saved/Autosaves/Game/Map/NewMap_BuiltData_Auto3.uasset
+[2017.11.21-14.37.13:818][449]LogFileHelpers: Auto-saving content packages took 0.023
+[2017.11.21-15.03.41:980][719]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.11.21-15.03.41:996][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.21-15.03.41:997][719]PIE: New page: PIE 세션: NewMap (2017. 11. 22. 오전 9:03:41)
+[2017.11.21-15.03.41:997][719]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2017.11.21-15.03.42:016][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019058s)
+[2017.11.21-15.03.42:017][719]LogAIModule: Creating AISystem for world NewMap
+[2017.11.21-15.03.42:017][719]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2017.11.21-15.03.42:017][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.020239s)
+[2017.11.21-15.03.42:038][719]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.21-15.03.42:057][719]LogInit: FAudioDevice initialized.
+[2017.11.21-15.03.42:089][719]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.21-15.03.42:098][719]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.11.22-00.03.42
+[2017.11.21-15.03.42:099][719]LogWorld: Bringing up level for play took: 0.007883
+[2017.11.21-15.03.42:106][719]PIE: /Game/Map/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.203
+[2017.11.21-15.04.47:199][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Meshes/SM_MERGED_Big_Wall" FILE="../../../../전공모음/Unreal_Projects/FPS/Content/Environment/Meshes/SM_MERGED_Big_Wall.uasset" SILENT=true
+[2017.11.21-15.04.47:245][134]LogSavePackage: Save=43.69ms
+[2017.11.21-15.04.47:245][134]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/SM_MERGED_Big_Wall97B124BE4BCE2F408246E297FF05DF6D.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Content/Environment/Meshes/SM_MERGED_Big_Wall.uasset'
+[2017.11.21-15.04.47:252][134]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Content/Environment/Meshes/SM_MERGED_Big_Wall.uasset
+[2017.11.21-15.04.47:267][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Meshes/SM_MERGED_Wall" FILE="../../../../전공모음/Unreal_Projects/FPS/Content/Environment/Meshes/SM_MERGED_Wall.uasset" SILENT=true
+[2017.11.21-15.04.47:282][134]LogSavePackage: Save=14.04ms
+[2017.11.21-15.04.47:282][134]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/SM_MERGED_Wall74300EED4E8535F84CB438BF2A30144F.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Content/Environment/Meshes/SM_MERGED_Wall.uasset'
+[2017.11.21-15.04.47:285][134]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Content/Environment/Meshes/SM_MERGED_Wall.uasset
+[2017.11.21-15.04.47:373][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../전공모음/Unreal_Projects/FPS/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.21-15.04.47:502][134]LogSavePackage: Save=118.90ms
+[2017.11.21-15.04.47:502][134]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/NewMap7A3AC0104176DFA97F647C97D6941AAC.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Content/Map/NewMap.umap'
+[2017.11.21-15.04.47:505][134]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Content/Map/NewMap.umap
+[2017.11.21-15.04.47:531][134]LogFileHelpers: Saving map 'NewMap' took 0.244
+[2017.11.21-15.04.47:533][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../전공모음/Unreal_Projects/FPS/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2017.11.21-15.04.47:670][134]LogSavePackage: Save=132.35ms
+[2017.11.21-15.04.47:670][134]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/NewMap_BuiltData80FA68CB44EDF8107D2BD992CB1214FD.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Content/Map/NewMap_BuiltData.uasset'
+[2017.11.21-15.04.47:673][134]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Content/Map/NewMap_BuiltData.uasset
+[2017.11.21-15.04.47:691][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_MERGED_Cube3_13" FILE="../../../../전공모음/Unreal_Projects/FPS/Content/SM_MERGED_Cube3_13.uasset" SILENT=true
+[2017.11.21-15.04.47:705][134]LogSavePackage: Save=13.07ms
+[2017.11.21-15.04.47:705][134]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/FPS/Saved/SM_MERGED_Cube3_1381B5270E4E41E0D8A08A0FA0220855A9.tmp' to '../../../../전공모음/Unreal_Projects/FPS/Content/SM_MERGED_Cube3_13.uasset'
+[2017.11.21-15.04.47:707][134]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/FPS/Content/SM_MERGED_Cube3_13.uasset
+[2017.11.21-15.04.47:972][135]Cmd: QUIT_EDITOR
+[2017.11.21-15.04.48:688][135]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.11.21-15.04.48:698][135]LogExit: Preparing to exit.
+[2017.11.21-15.04.49:495][135]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/FPS/Content/' was aborted.
+[2017.11.21-15.04.49:508][135]LogExit: Editor shut down
+[2017.11.21-15.04.49:515][135]LogExit: Transaction tracking system shut down
+[2017.11.21-15.04.49:709][135]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.21-15.04.49:709][135]LogDirectoryWatcher: A directory notification for '../../../../전공모음/Unreal_Projects/FPS/Content/' was aborted.
+[2017.11.21-15.04.49:709][135]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.21-15.04.49:709][135]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.21-15.04.49:709][135]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.21-15.04.49:709][135]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.21-15.04.49:709][135]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.21-15.04.49:744][135]LogExit: Object subsystem successfully closed.
+[2017.11.21-15.04.49:760][135]LogD3D11RHI: Shutdown
+[2017.11.21-15.04.49:761][135]LogD3D11RHI: CleanupD3DDevice
+[2017.11.21-15.04.49:764][135]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.21-15.04.49:770][135]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2017.11.21-15.04.49:770][135]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.11.21-15.04.49:770][135]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (550)
+[2017.11.21-15.04.49:770][135]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.21-15.04.49:770][135]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.21-15.04.49:770][135]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.21-15.04.49:770][135]LogDirectoryWatcher: A directory notification for 'D:/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.21-15.04.49:771][135]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/FPS/Content/Collections/' was aborted.
+[2017.11.21-15.04.49:771][135]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/FPS/Content/Developers/USERPC/Collections/' was aborted.
+[2017.11.21-15.04.49:771][135]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/FPS/Saved/Collections/' was aborted.
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.21-15.04.49:771][135]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.21-15.04.49:772][135]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.21-15.04.49:951][135]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.21-15.04.49:951][135]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.21-15.04.49:951][135]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.21-15.04.49:951][135]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.21-15.04.49:951][135]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.21-15.04.49:959][135]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.21-15.04.49:960][135]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.21-15.04.49:960][135]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.21-15.04.49:960][135]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.21-15.04.49:960][135]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.21-15.04.49:960][135]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.21-15.04.49:960][135]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.21-15.04.49:960][135]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.21-15.04.49:961][135]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.21-15.04.49:961][135]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.21-15.04.49:961][135]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.21-15.04.50:013][135]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.21-15.04.50:013][135]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.21-15.04.50:013][135]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.21-15.04.50:014][135]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.21-15.04.50:014][135]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.21-15.04.50:014][135]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.21-15.04.50:014][135]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.21-15.04.50:014][135]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.21-15.04.50:014][135]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.21-15.04.50:014][135]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.21-15.04.50:016][135]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.21-15.04.50:016][135]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.21-15.04.50:016][135]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.21-15.04.50:016][135]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.21-15.04.50:016][135]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.21-15.04.50:017][135]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.21-15.04.50:018][135]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.21-15.04.50:018][135]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.21-15.04.50:176][135]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.21-15.04.50:177][135]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.21-15.04.50:178][135]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.21-15.04.50:279][135]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.21-15.04.50:443][135]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.21-15.04.50:443][135]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.21-15.04.50:443][135]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.21-15.04.50:443][135]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.21-15.04.50:444][135]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.21-15.04.50:444][135]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.21-15.04.50:446][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.21-15.04.50:446][135]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.21-15.04.50:446][135]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.21-15.04.50:446][135]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.21-15.04.50:450][135]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.21-15.04.50:450][135]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.21-15.04.50:450][135]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.21-15.04.50:450][135]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.21-15.04.50:450][135]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.21-15.04.50:450][135]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.21-15.04.50:457][135]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.21-15.04.50:457][135]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.21-15.04.50:457][135]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.21-15.04.50:458][135]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.21-15.04.50:459][135]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.21-15.04.50:459][135]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.21-15.04.50:459][135]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.21-15.04.50:459][135]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.21-15.04.50:465][135]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.21-15.04.50:466][135]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.21-15.04.50:467][135]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.21-15.04.50:515][135]LogDerivedDataCache: Shutdown
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.21-15.04.50:515][135]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.21-15.04.50:516][135]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.21-15.04.50:517][135]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.21-15.04.50:518][135]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.21-15.04.50:518][135]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.21-15.04.50:518][135]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F32E916-4B02-7E27-C805-A5A6422E893B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=ccacb9eb4ff92296588f799bd42c27c8%7Ce9abd0643c81437cbe0d3af0070a4d48%7C9565a66c-b485-4c2f-8d2b-6600b6da4d65&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.21-15.04.50:548][135]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.21-15.04.50:551][135]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.21-15.04.50:551][135]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.21-15.04.50:552][135]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.21-15.04.50:552][135]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.21-15.04.50:552][135]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.21-15.04.50:552][135]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.21-15.04.50:552][135]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.21-15.04.50:557][135]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.21-15.04.50:557][135]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.21-15.04.50:557][135]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.21-15.04.50:557][135]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.21-15.04.50:557][135]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.21-15.04.50:557][135]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.21-15.04.50:558][135]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.21-15.04.50:558][135]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.21-15.04.50:558][135]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.21-15.04.50:558][135]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.21-15.04.50:558][135]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.21-15.04.50:566][135]LogExit: Exiting.
+[2017.11.21-15.04.50:581][135]Log file closed, 11/22/17 00:04:50
